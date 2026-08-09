@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Pregunta general
+    url: mailto:contacto@codespartan.es
+    about: Para dudas que no encajan en bug o feature
