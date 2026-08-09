@@ -68,11 +68,11 @@ Especialización real, no adaptación a cualquier tecnología:
 
 | Proyecto | Descripción | Stack |
 |----------|-------------|-------|
-| [`jesucripto`](https://github.com/TechnoSpartan/jesucripto) | Paquete de frases de Jesucristo, escrito en HollyScript | TypeScript |
-| [`codice-santo`](https://github.com/TechnoSpartan/codice-santo) | App devocional que predica versículos sagrados generados por Jesucripto | TypeScript / React |
+| [`flow-ts-dental-ia-es`](https://github.com/TechnoSpartan/flow-ts-dental-ia-es) | Plataforma de seguimiento y automatización para clínicas dentales (presupuestos, citas, IA) | TypeScript |
 | [`iac-code-spartan`](https://github.com/TechnoSpartan/iac-code-spartan) | Proyecto OpenSource de IaC + Config general | Shell |
-| [`todos-monorepo`](https://github.com/TechnoSpartan/todos-monorepo) | Ejemplo de lista de TODOs en distintas tecnologías | JavaScript |
-| [`.zsh-devtools`](https://github.com/TechnoSpartan/.zsh-devtools) | Repositorio de Bash con zshrc | Shell |
+| [`bot-ts-bko-search-clients`](https://github.com/TechnoSpartan/bot-ts-bko-search-clients) | Buscador y clasificador de ofertas en base a parámetros | TypeScript |
+| [`ft-rc-bko-trackworks`](https://github.com/TechnoSpartan/ft-rc-bko-trackworks) | Backoffice de seguimiento y gestión de trabajos | TypeScript |
+| [`ft-rc-good-way`](https://github.com/TechnoSpartan/ft-rc-good-way) | Buen camino | TypeScript |
 
 ---
 
