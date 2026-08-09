@@ -1,5 +1,9 @@
 # TechnoSpartan
 
+<p align="center">
+  <img src="./technospartan-banner.svg" alt="TechnoSpartan - Piensa. Crea. Escala." width="100%">
+</p>
+
 > **Piensa el problema. Crea la solución. Escala cuando los resultados lo justifiquen.**
 
 <!--
