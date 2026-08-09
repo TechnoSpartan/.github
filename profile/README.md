@@ -71,8 +71,8 @@ Especialización real, no adaptación a cualquier tecnología:
 | [`flow-ts-dental-ia-es`](https://github.com/TechnoSpartan/flow-ts-dental-ia-es) | Plataforma de seguimiento y automatización para clínicas dentales (presupuestos, citas, IA) | TypeScript |
 | [`iac-code-spartan`](https://github.com/TechnoSpartan/iac-code-spartan) | Proyecto OpenSource de IaC + Config general | Shell |
 | [`bot-ts-bko-search-clients`](https://github.com/TechnoSpartan/bot-ts-bko-search-clients) | Buscador y clasificador de ofertas en base a parámetros | TypeScript |
-| [`ft-rc-bko-trackworks`](https://github.com/TechnoSpartan/ft-rc-bko-trackworks) | Backoffice de seguimiento y gestión de trabajos | TypeScript |
-| [`ft-rc-good-way`](https://github.com/TechnoSpartan/ft-rc-good-way) | Buen camino | TypeScript |
+| [`ft-rc-bko-trackworks`](https://github.com/TechnoSpartan/ft-rc-bko-trackworks) | TrackWorks Backoffice — gestión de trabajos con arquitectura offline-first (Vite + React, Fastify BFF) | TypeScript |
+| [`ft-rc-good-way`](https://github.com/TechnoSpartan/ft-rc-good-way) | Backoffice para gestión del Camino de Santiago — notificaciones a peregrinos, clasificación y geolocalización | TypeScript |
 
 ---
 
