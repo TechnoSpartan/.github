@@ -1,4 +1,4 @@
-# TechnoSpartan
+# Codespartan Software - Cloud - IA Tools
 
 <p align="center">
   <img src="./codespartan-logo.png" alt="CodeSpartan Logo" width="180">
