@@ -1,123 +1,50 @@
-# TechnoSpartan
+# CodeSpartan · Piensa. Crea. Escala.
 
 <p align="center">
-  <img src="./codespartan-logo.png" alt="CodeSpartan Logo" width="180">
+  <img src="./codespartan-logo.png" alt="Logo de CodeSpartan: casco espartano entre símbolos de código" width="220">
 </p>
 
-> **Piensa el problema. Crea la solución. Escala cuando los resultados lo justifiquen.**
+**Ingeniería de software para empresas con operación real.** Modernizamos sistemas, conectamos herramientas y aplicamos inteligencia artificial donde puede ahorrar trabajo.
 
-<!--
-  Organization README for TechnoSpartan
-  This file is rendered on the organization's public profile.
--->
+TechnoSpartan es la organización de desarrollo de [CodeSpartan](https://www.codespartan.es/). Trabajamos en proyectos de software a medida, desde el análisis del problema hasta su puesta en producción y evolución.
 
-## 🏛️ Quiénes somos
+## Cómo trabajamos
 
-**TechnoSpartan** es la organización de desarrollo detrás de **CodeSpartan** — no una consultora tradicional, sino un socio técnico que asume responsabilidad sobre la arquitectura, la ejecución y los resultados.
+- **Piensa:** analizamos el problema, los sistemas y los riesgos para definir un plan técnico priorizado.
+- **Crea:** diseñamos y construimos soluciones por fases, desde un piloto hasta un proyecto completo.
+- **Escala:** acompañamos la operación y la evolución del software, la infraestructura cloud y su fiabilidad.
 
-No vendemos perfiles sueltos ni bolsas de horas. Nuestro trabajo empieza con un problema concreto: entendemos dónde se pierde tiempo, dinero o capacidad de crecimiento, diseñamos una solución medible y la llevamos a producción con criterios claros de calidad, seguridad y mantenibilidad.
+Trabajamos con entregas incrementales, revisión de cambios, pruebas y automatización. Aplicamos IA con supervisión humana en los procesos sensibles y buscamos que el conocimiento y el código permanezcan en manos del cliente.
 
-**Modelo operativo:** dirección técnica desde España combinada con equipos regionales formados bajo una metodología común. Eso nos permite ofrecer calidad, continuidad y una estructura de costes competitiva sin convertir el servicio en simple subcontratación.
+## Qué hacemos
 
----
+- **Desarrollo de software a medida:** aplicaciones y plataformas adaptadas a procesos de negocio.
+- **Modernización e integración:** evolución gradual de sistemas existentes y conexión entre herramientas.
+- **Automatización e inteligencia artificial:** reducción de tareas manuales con trazabilidad y revisión humana donde corresponde.
+- **Cloud y operación:** infraestructura, despliegues, observabilidad y soporte para sistemas en producción.
 
-## 🎯 Cómo trabajamos
+## Proyectos
 
-1. **Localizamos el problema** — ¿Qué proceso consume más tiempo del que debería? ¿Dónde se producen errores manuales? ¿Qué parte de la tecnología impide crecer?
-2. **Diseñamos una primera fase controlada** — pequeña, medible y proporcional al negocio.
-3. **Respondemos por la ejecución** — no aportamos únicamente personas; gestionamos la entrega.
-4. **Demostramos valor antes de escalar** — solo ampliamos cuando el resultado está justificado.
-5. **Dejamos capacidad dentro del cliente** — construimos conocimiento que permanece.
+- **TrackWorks:** plataforma de gestión de mantenimiento para empresas de reparación con técnicos en campo, en producción en Estados Unidos. [Ver el caso de éxito](https://www.codespartan.es/casos-de-exito/trackworks/).
+- **[DentalFlow](https://www.dental-ia.es/):** seguimiento de citas y presupuestos para clínicas dentales. MVP funcional, con un piloto en preparación; no sustituye al software clínico.
+- **LedgerMind AI:** herramienta funcional que recoge facturas del correo, extrae datos fiscales y los consolida en un informe.
+- **Mambo Cloud:** plataforma propia para automatizar infraestructura, seguridad, observabilidad y despliegues; operativa y en evolución.
 
-> *"La arquitectura no se entrega en un PowerPoint; se demuestra en producción."*
+## Tecnologías
 
----
+Trabajamos habitualmente con **TypeScript, Node.js, Kubernetes, Azure e IA agéntica**, y con tecnologías como **Java, PostgreSQL y Kafka** cuando el proyecto lo requiere. Elegimos las herramientas según el problema y el contexto de cada equipo.
 
-## 🚀 Qué hacemos
+## Colabora
 
-### Servicios
+Si tienes una incidencia o una propuesta para un repositorio público, consulta su documentación y nuestras [instrucciones de contribución](https://github.com/TechnoSpartan/.github/blob/main/CONTRIBUTING.md).
 
-- **Modernización de software** — reducimos riesgo y recuperamos capacidad de evolución en aplicaciones legacy.
-- **Arquitectura cloud-native** — diseño de sistemas escalables, hexagonales y preparados para producción.
-- **Automatización con IA** — reducimos trabajo manual, errores y tiempos de respuesta manteniendo control humano donde importa.
-- **Equipos gestionados** — dirección técnica, desarrollo y operación sin que el cliente se convierta en gestor de proveedores.
+## Contacto y redes
 
-### Productos
+- 🌐 [codespartan.es](https://www.codespartan.es/)
+- 📧 [contacto@codespartan.es](mailto:contacto@codespartan.es)
+- 💼 [LinkedIn](https://www.linkedin.com/company/codespartan)
+- 📷 [Instagram](https://www.instagram.com/codespartan_cloud_and_ai_tools/)
+- 👍 [Facebook](https://www.facebook.com/codespartan)
+- 𝕏 [X](https://x.com/CodeSpartan_)
 
-| Producto | Descripción |
-|----------|-------------|
-| **DentalFlow** | Automatización de flujos clínicos y gestión para el sector dental |
-| **AdvisorFlow** | Herramienta de discovery y prescripción técnica para consultorías |
-| **SpartanFlow** | Core reutilizable de flujos, formularios y orquestación bajo SpartanFlow |
-
----
-
-## 🛠️ Stack tecnológico
-
-Especialización real, no adaptación a cualquier tecnología:
-
-| Capa | Tecnologías |
-|------|-------------|
-| **Frontend** | React, Next.js, Web Components, Tailwind CSS |
-| **Backend** | Node.js, Express, NestJS |
-| **Infra** | Docker, Kubernetes (k3s/microk8s), Terraform, Ansible |
-| **CI/CD** | GitHub Actions, GitLab CI |
-| **Observabilidad** | Prometheus, Grafana, Loki, Fluentbit |
-| **Mensajería** | NATS, RabbitMQ, Kafka |
-| **Bases de Datos** | PostgreSQL, Supabase |
-
----
-
-## 📦 Proyectos destacados
-
-| Proyecto | Descripción | Stack |
-|----------|-------------|-------|
-| [`flow-ts-dental-ia-es`](https://github.com/TechnoSpartan/flow-ts-dental-ia-es) | Plataforma de seguimiento y automatización para clínicas dentales (presupuestos, citas, IA) | TypeScript |
-| [`iac-code-spartan`](https://github.com/TechnoSpartan/iac-code-spartan) | Proyecto OpenSource de IaC + Config general | Shell |
-| [`bot-ts-bko-search-clients`](https://github.com/TechnoSpartan/bot-ts-bko-search-clients) | Buscador y clasificador de ofertas en base a parámetros | TypeScript |
-| [`ft-rc-bko-trackworks`](https://github.com/TechnoSpartan/ft-rc-bko-trackworks) | TrackWorks Backoffice — gestión de trabajos con arquitectura offline-first (Vite + React, Fastify BFF) | TypeScript |
-| [`ft-rc-good-way`](https://github.com/TechnoSpartan/ft-rc-good-way) | Backoffice para gestión del Camino de Santiago — notificaciones a peregrinos, clasificación y geolocalización | TypeScript |
-
----
-
-## 🤝 Para quién es esto
-
-### Si eres una empresa con un problema técnico
-
-No empezamos vendiendo tecnología. Empezamos localizando dónde pierdes tiempo, dinero o capacidad de crecimiento, y resolvemos primero ese punto con un proyecto pequeño y medible.
-
-> [Contacto directo](mailto:contacto@codespartan.es)
-
-### Si eres un integrador o consultora
-
-Podemos ser tu brazo especializado en TypeScript, cloud e inteligencia artificial. Tú mantienes la relación comercial; nosotros reducimos el riesgo técnico y aumentamos tu capacidad de entrega. No competimos por tu cliente: te ayudamos a asumir proyectos que ahora rechazas, retrasas o ejecutas con demasiado riesgo.
-
-> [Hablamos](mailto:contacto@codespartan.es)
-
-### Si eres talento técnico
-
-No buscamos manos para cerrar tickets. Buscamos personas que quieran aprender a diseñar, construir y mejorar sistemas de los que puedan sentirse responsables. Formamos criterio, no solo conocimiento de frameworks.
-
-> [Conoce cómo trabajamos](#cómo-trabajamos)
-
----
-
-## 📬 Contacto
-
-- 🌐 **Web:** [www.codespartan.es](https://www.codespartan.es)
-- 💼 **LinkedIn:** [company/codespartan](https://www.linkedin.com/company/codespartan)
-- 🐦 **X / Twitter:** [@CodeSpartan_](https://x.com/CodeSpartan_)
-- 📧 **Email:** [contacto@codespartan.es](mailto:contacto@codespartan.es)
-
----
-
-## 📄 Licencia
-
-Los proyectos públicos de esta organización se distribuyen bajo sus respectivas licencias (MIT u otras). Consulta el archivo `LICENSE` de cada repositorio.
-
----
-
-<p align="center">
-  <i>Built with discipline, shipped with pride.</i><br>
-  <strong>TechnoSpartan · CodeSpartan</strong>
-</p>
+Los repositorios públicos se distribuyen bajo sus respectivas licencias; consulta el archivo `LICENSE` de cada proyecto.

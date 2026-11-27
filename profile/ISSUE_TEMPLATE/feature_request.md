@@ -34,4 +34,4 @@ Explica el comportamiento deseado. Si implica cambios de UI, describe la interac
 
 ## Notas adicionales
 
-Links, referencias, mockups, ADRs previos.
+Enlaces, referencias, bocetos o ADR anteriores.

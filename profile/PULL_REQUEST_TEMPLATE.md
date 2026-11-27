@@ -28,7 +28,7 @@
 ## Checklist
 
 - [ ] El código sigue los estándares del proyecto
-- [ ] No hay `console.log` ni código de debug residual
+- [ ] No hay `console.log` ni código de depuración residual
 - [ ] La documentación está actualizada si aplica
 - [ ] Se probó el flujo principal manualmente (si es necesario)
 

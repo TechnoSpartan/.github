@@ -31,7 +31,7 @@ Pasos para reproducirlo:
 ## Logs o capturas
 
 ```
-Pega aquí el stack trace o mensaje de error relevante.
+Pega aquí la traza o el mensaje de error relevante.
 ```
 
 ## Contexto adicional

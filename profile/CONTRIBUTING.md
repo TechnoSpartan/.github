@@ -1,10 +1,10 @@
-# Contributing to TechnoSpartan
+# Contribuir a TechnoSpartan
 
 > Gracias por considerar contribuir. No es un proceso burocrático: es una forma de asegurar que el código que entra mantiene el nivel del que sale.
 
 ## Antes de empezar
 
-- Lee el README del repo y los ADRs si existen.
+- Lee el README del repositorio y los ADR, si existen.
 - Si vas a tocar arquitectura, abre primero un issue para discutirlo. No queremos descartar trabajo bienintencionado.
 - Si es un bug, revisa que no esté ya reportado.
 
